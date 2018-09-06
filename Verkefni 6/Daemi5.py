@@ -1,6 +1,5 @@
 s = input("Input a string: ")
-arr = []
-for char in s:
-    if char.isdigit():
-        arr.append(char)
-print(''.join(arr))
+
+for n in s:
+    if n.isdigit():
+        print(n, end="")
