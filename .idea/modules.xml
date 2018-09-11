@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/SC-T-111-PROG.iml" filepath="$PROJECT_DIR$/.idea/SC-T-111-PROG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/.idea/SC-T-111-PROG-Hopverkefni.iml" filepath="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/.idea/SC-T-111-PROG-Hopverkefni.iml" />
       <module fileurl="file://$PROJECT_DIR$/../SC-T-111-PROG-Skilaverkefni/.idea/SC-T-111-PROG-Skilaverkefni.iml" filepath="$PROJECT_DIR$/../SC-T-111-PROG-Skilaverkefni/.idea/SC-T-111-PROG-Skilaverkefni.iml" />
     </modules>
   </component>
