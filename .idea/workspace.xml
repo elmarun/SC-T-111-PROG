@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1b3371fe-f66d-41be-88ce-c1b89f37fa74" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../SC-T-111-PROG-Skilaverkefni/Skilaverkefni 2/pigLatin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SC-T-111-PROG-Skilaverkefni/Skilaverkefni 2/pigLatin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Aron.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Aron.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Verkefni 7/Daemi1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Verkefni 7/Daemi1.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -86,14 +85,14 @@
           <entry key="project.closed" value="13" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.13" value="3" />
           <entry key="project.open.time.14" value="3" />
           <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -102,7 +101,7 @@
           <entry key="MD" value="1" />
           <entry key="md" value="5" />
           <entry key="pstat" value="1" />
-          <entry key="py" value="97" />
+          <entry key="py" value="98" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -110,7 +109,7 @@
           <entry key="Markdown" value="5" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="Profiler Session" value="1" />
-          <entry key="Python" value="96" />
+          <entry key="Python" value="97" />
           <entry key="Scratch" value="1" />
         </counts>
       </usages-collector>
@@ -119,14 +118,14 @@
           <entry key="MD" value="5" />
           <entry key="dummy" value="63" />
           <entry key="md" value="1" />
-          <entry key="py" value="11384" />
+          <entry key="py" value="11394" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="6" />
           <entry key="PLAIN_TEXT" value="63" />
-          <entry key="Python" value="11305" />
+          <entry key="Python" value="11315" />
           <entry key="Scratch" value="79" />
         </counts>
       </usages-collector>
@@ -180,11 +179,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+              <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Verkefni 7/Daemi1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -215,12 +223,11 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../SC-T-111-PROG-Skilaverkefni" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni/6. nteger as input, lets call it celsius. This value will represent a temperature on the celsius scale.py" />
         <option value="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni/7.  accepts 2 integers as input and outputs the greater integer.py" />
         <option value="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni/8.  2 strings as input. If the strings are the same length the program.py" />
         <option value="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni/9.  takes 3 integers as input and prints the integer with the lowest value..py" />
@@ -271,6 +278,7 @@
         <option value="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Hlutaprof 1 2018/4. MULTIPLICATION TABLE.py" />
         <option value="$PROJECT_DIR$/../SC-T-111-PROG-Skilaverkefni/Skilaverkefni 1/loan.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+        <option value="$PROJECT_DIR$/Verkefni 7/Daemi1.py" />
       </list>
     </option>
   </component>
@@ -298,12 +306,7 @@
           <expand>
             <path>
               <item name="SC-T-111-PROG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SC-T-111-PROG-Skilaverkefni" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SC-T-111-PROG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SC-T-111-PROG-Skilaverkefni" type="462c0819:PsiDirectoryNode" />
-              <item name="Skilaverkefni 1" type="462c0819:PsiDirectoryNode" />
+              <item name="SC-T-111-PROG" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -479,8 +482,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49918434" visible="true" weight="0.22538294" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918434" visible="true" weight="0.2297593" />
       <window_info id="Structure" order="1" sideWeight="0.5008157" side_tool="true" weight="0.13646056" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Query Editor" order="3" />
@@ -547,13 +551,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni/4. Hello, my name is name and my age is age.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni/5. 2 strings as input, let´s call them firstname and lastname. They should hold (as the names of them imply) the first and last name of the user.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -907,7 +904,14 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verkefni 7/Daemi1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
         </state>
       </provider>
     </entry>
