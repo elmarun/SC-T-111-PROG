@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b3371fe-f66d-41be-88ce-c1b89f37fa74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Verkefni 7/Daemi3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SC-T-111-PROG-Skilaverkefni/Skilaverkefni 2/pigLatin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SC-T-111-PROG-Skilaverkefni/Skilaverkefni 2/pigLatin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Verkefni 7/Daemi3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Verkefni 7/Daemi3.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,7 +26,7 @@
     <SUITE FILE_PATH="coverage/SC_T_111_PROG$2_strings_as_input__let_s_call_them_firstname_and_lastname__They_should_hold__as_the_names_of_them_imply__the_first_and_last_name_of_the_user.coverage" NAME="2 strings as input, let´s call them firstname and lastname. They should hold (as the names of them imply) the first and last name of the user Coverage Results" MODIFIED="1536615092894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni" />
     <SUITE FILE_PATH="coverage/SC_T_111_PROG$Character_counts.coverage" NAME="Character_counts Coverage Results" MODIFIED="1536241849281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SC-T-111-PROG-Skilaverkefni/Skilaverkefni 2" />
     <SUITE FILE_PATH="coverage/SC_T_111_PROG$26__takes_an_integer_as_input__let_s_call_it_turns__This_integer_should_indicate_how_many_times_the_user_wants_The_program_should_then_print_how_many_negative_integers.coverage" NAME="26. takes an integer as input, let´s call it turns. This integer should indicate how many times the user wants The program should then print how many negative integers Coverage Results" MODIFIED="1536622585309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni" />
-    <SUITE FILE_PATH="coverage/SC_T_111_PROG$Daemi3.coverage" NAME="Daemi3 Coverage Results" MODIFIED="1536228323232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Verkefni 6" />
+    <SUITE FILE_PATH="coverage/SC_T_111_PROG$Daemi3.coverage" NAME="Daemi3 Coverage Results" MODIFIED="1536832071757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Verkefni 7" />
     <SUITE FILE_PATH="coverage/SC_T_111_PROG$4__MULTIPLICATION_TABLE.coverage" NAME="4. MULTIPLICATION TABLE Coverage Results" MODIFIED="1536658781813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Hlutaprof 1 2018" />
     <SUITE FILE_PATH="coverage/SC_T_111_PROG$18__takes_2_integers_as_input__lets_call_them_low_and_high__Your_program_should_print_all_the_integers_between_low_and_high__low_and_high_included_.coverage" NAME="18. takes 2 integers as input, let’s call them low and high. Your program should print all the integers between low and high (low and high included) Coverage Results" MODIFIED="1536618745546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni" />
     <SUITE FILE_PATH="coverage/SC_T_111_PROG$MAXIMUM_NUMBER.coverage" NAME="MAXIMUM NUMBER Coverage Results" MODIFIED="1536056499470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Assignment 5 Algorithms and git" />
@@ -101,7 +101,7 @@
           <entry key="MD" value="1" />
           <entry key="md" value="5" />
           <entry key="pstat" value="1" />
-          <entry key="py" value="100" />
+          <entry key="py" value="101" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -109,7 +109,7 @@
           <entry key="Markdown" value="5" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="Profiler Session" value="1" />
-          <entry key="Python" value="99" />
+          <entry key="Python" value="100" />
           <entry key="Scratch" value="1" />
         </counts>
       </usages-collector>
@@ -118,14 +118,14 @@
           <entry key="MD" value="5" />
           <entry key="dummy" value="63" />
           <entry key="md" value="1" />
-          <entry key="py" value="11625" />
+          <entry key="py" value="11761" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="6" />
           <entry key="PLAIN_TEXT" value="63" />
-          <entry key="Python" value="11546" />
+          <entry key="Python" value="11682" />
           <entry key="Scratch" value="79" />
         </counts>
       </usages-collector>
@@ -134,15 +134,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Hlutaprof 1 2018/1. HOLIDAYS.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Hlutaprof 1 2018/2. DOWN TO.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -208,7 +199,23 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Verkefni 7/Daemi3.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+              <folding>
+                <marker date="1536831980445" expanded="true" signature="53:129" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Hlutaprof 1/5. Talnabil.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="29" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -327,6 +334,15 @@
               <item name="SC-T-111-PROG" type="462c0819:PsiDirectoryNode" />
               <item name="Verkefni 7" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="SC-T-111-PROG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SC-T-111-PROG-Hopverkefni" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SC-T-111-PROG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SC-T-111-PROG-Hopverkefni" type="462c0819:PsiDirectoryNode" />
+              <item name="Hlutaprof 1" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -358,29 +374,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Daemi2">
-    <configuration name="3. SERIES" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="SC-T-111-PROG-Hopverkefni" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Hlutaprof 1 2018" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Hlutaprof 1 2018/3. SERIES.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Daemi3">
     <configuration name="4. MULTIPLICATION TABLE" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SC-T-111-PROG-Hopverkefni" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -417,6 +411,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Verkefni 7/Daemi2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Daemi3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SC-T-111-PROG" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Verkefni 7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Verkefni 7/Daemi3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -470,19 +486,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.3. SERIES" />
       <item itemvalue="Python.4. MULTIPLICATION TABLE" />
       <item itemvalue="Python.loan" />
       <item itemvalue="Python.scratch_1" />
       <item itemvalue="Python.Daemi2" />
+      <item itemvalue="Python.Daemi3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Daemi3" />
         <item itemvalue="Python.Daemi2" />
         <item itemvalue="Python.scratch_1" />
         <item itemvalue="Python.loan" />
         <item itemvalue="Python.4. MULTIPLICATION TABLE" />
-        <item itemvalue="Python.3. SERIES" />
       </list>
     </recent_temporary>
   </component>
@@ -501,14 +517,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918434" visible="true" weight="0.2297593" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49918434" visible="true" weight="0.2297593" />
       <window_info id="Structure" order="1" sideWeight="0.5008157" side_tool="true" weight="0.13646056" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Query Editor" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26286966" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26286966" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39759037" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -748,13 +765,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Hlutaprof 1/5. Talnabil.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Hlutaprof 1/6. Neikvæðar​ ​og​ ​óneikvæðar​ ​tölur.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -926,8 +936,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Hlutaprof 1/5. Talnabil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Verkefni 7/Daemi3.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+          <folding>
+            <marker date="1536831980445" expanded="true" signature="53:129" ph="..." />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
