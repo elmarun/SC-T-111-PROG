@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b3371fe-f66d-41be-88ce-c1b89f37fa74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Verkefni 7/Dæmi5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SC-T-111-PROG-Skilaverkefni/Skilaverkefni 2/pigLatin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SC-T-111-PROG-Skilaverkefni/Skilaverkefni 2/pigLatin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Verkefni 7/Dæmi5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Verkefni 7/Dæmi5.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -84,6 +84,7 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="13" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="3" />
@@ -93,7 +94,7 @@
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="15" />
+          <entry key="project.opened" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -119,14 +120,14 @@
           <entry key="MD" value="5" />
           <entry key="dummy" value="63" />
           <entry key="md" value="1" />
-          <entry key="py" value="11931" />
+          <entry key="py" value="11947" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="6" />
           <entry key="PLAIN_TEXT" value="63" />
-          <entry key="Python" value="11852" />
+          <entry key="Python" value="11868" />
           <entry key="Scratch" value="79" />
         </counts>
       </usages-collector>
@@ -175,7 +176,7 @@
         <entry file="file://$PROJECT_DIR$/Verkefni 7/Daemi1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="9" lean-forward="true" selection-end-line="12" />
+              <caret line="7" column="9" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -184,7 +185,7 @@
         <entry file="file://$PROJECT_DIR$/Verkefni 7/Daemi2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -193,7 +194,7 @@
         <entry file="file://$PROJECT_DIR$/Verkefni 7/Daemi3.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <marker date="1536832095573" expanded="true" signature="53:127" ph="..." />
               </folding>
@@ -205,7 +206,7 @@
         <entry file="file://$PROJECT_DIR$/Verkefni 7/Dæmi5.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="57" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
+              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -511,13 +512,13 @@
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918434" visible="true" weight="0.2297593" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49918434" visible="true" weight="0.23522976" />
       <window_info id="Structure" order="1" sideWeight="0.5008157" side_tool="true" weight="0.13646056" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Query Editor" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26286966" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26286966" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39759037" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -865,6 +866,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Verkefni 7/Daemi4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Hlutaprof 1 2018/3. SERIES.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -886,24 +894,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../SC-T-111-PROG-Skilaverkefni/Skilaverkefni 2/characterCounts.py">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="46" />
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Verkefni 7/Daemi1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="9" lean-forward="true" selection-end-line="12" />
+          <caret line="7" column="9" selection-end-line="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Verkefni 7/Daemi2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verkefni 7/Daemi3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <marker date="1536832095573" expanded="true" signature="53:127" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -914,37 +932,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py">
+    <entry file="file://$PROJECT_DIR$/../SC-T-111-PROG-Skilaverkefni/Skilaverkefni 2/characterCounts.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Verkefni 7/Daemi4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <marker date="1536832902431" expanded="true" signature="96:243" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Verkefni 7/Daemi3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <marker date="1536832095573" expanded="true" signature="53:127" ph="..." />
-          </folding>
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Verkefni 7/Dæmi5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="57" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
         </state>
       </provider>
     </entry>

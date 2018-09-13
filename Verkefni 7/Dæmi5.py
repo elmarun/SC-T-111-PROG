@@ -1,8 +1,8 @@
 in_str = input("Enter a string: ")
 
 
-def palindrome(in_str):
-    new_word = in_str.replace("'", '').replace('!', '').replace(' ', '').replace(',', '').lower()
+def palindrome(word):
+    new_word = word.replace("'", '').replace('!', '').replace(' ', '').replace(',', '').lower()
     if new_word == new_word[::-1]:
         return True
     else:
