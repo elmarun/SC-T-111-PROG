@@ -10,5 +10,5 @@ num = int(input("Input the length of Fibonacci sequence (n>=1): "))
 # Call your function here
 
 if num >= 0:
-    for i in range(1, num + 1):
-        print(f(i), end=" ")
+    for x in range(1, num + 1):
+        print(f(x), end=" ")
