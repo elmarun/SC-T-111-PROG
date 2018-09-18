@@ -5,19 +5,7 @@ while position != 3.1:
     print("You can travel:", posible_travel)
     print(position)
     direction = input("Direction: ").lower()
-    if direction == 'n':
-        position += round(0.1, 1)
-    elif direction == 's':
-        position -= round(0.1, 1)
-    elif direction == 'w':
-        position += round(1.0, 1)
-    elif direction == 'e':
-        position -= round(1.0, 1)
-
-    if position == 3.1:
-        print("Victory!")
-        break
-
+    
     elif position == 1.2:
         posible_travel = "(N)orth or (W)est or (S)outh."
         direction = input("Direction: ").lower()
@@ -33,4 +21,17 @@ while position != 3.1:
         posible_travel = "(E)ast or (S)outh."
     elif position == 3.2:
         posible_travel = "(N)orth or (S)outh."
+
+    elif direction == 'n':
+        position += round(0.1, 1)
+    elif direction == 's':
+        position -= round(0.1, 1)
+    elif direction == 'w':
+        position += round(1.0, 1)
+    elif direction == 'e':
+        position -= round(1.0, 1)
+
+    elif position == 3.1:
+        print("Victory!")
+        break
 
