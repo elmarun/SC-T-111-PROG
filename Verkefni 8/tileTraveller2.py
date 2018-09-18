@@ -1,6 +1,6 @@
-# 1. það var mun léttara að gera seinni verkefniði því að við gátum notað functions
-# 2. það er mikið betra að lesa verkefni númer 2 þó að það voru fleiri línur í þeim kóða, functions hjálpuðu okkur að drefa kóðanum sem gerði hann betri til að lesa 
-# 3. við bjuggum til launs við fyrsta verkefnið og gátum notað hana aftur í seinna verkefninu. 
+# 1. Það var mun léttara að gera seinna verkefnið því að við gátum notað functions.
+# 2. Það er mikið betra að lesa verkefni númer 2 þó að það hafi verið fleiri línur í þeim kóða, functions hjálpuðu okkur að dreifa kóðanum sem gerði hann þægilegri að lesa. 
+# 3. Við bjuggum til lausn við fyrsta verkefninu og gátum notað hluta af henni aftur í seinna verkefninu. 
 
 #https://github.com/aronhr/SC-T-111-PROG/edit/master/Verkefni%208
 
