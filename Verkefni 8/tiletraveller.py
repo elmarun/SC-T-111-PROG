@@ -10,7 +10,7 @@ while position != 3.1:
         posible_travel = "(N)orth or (W)est or (S)outh."
         direction = input("Direction: ").lower()
     elif position == 2.2:
-        posible_travel = "(E)ast or (S)outh."
+        posible_travel = "(W)est or (S)outh."
     elif position == 2.1:
         posible_travel = "(N)orth."
     elif position == 1.3:
@@ -18,7 +18,7 @@ while position != 3.1:
     elif position == 2.3:
         posible_travel = "(E)ast or (W)est."
     elif position == 3.3:
-        posible_travel = "(E)ast or (S)outh."
+        posible_travel = "(W)est or (S)outh."
     elif position == 3.2:
         posible_travel = "(N)orth or (S)outh."
 
