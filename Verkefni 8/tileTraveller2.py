@@ -1,3 +1,9 @@
+# 1. það var mun léttara að gera seinni verkefniði því að við gátum notað functions
+# 2. það er mikið betra að lesa verkefni númer 2 þó að það voru fleiri línur í þeim kóða, functions hjálpuðu okkur að drefa kóðanum sem gerði hann betri til að lesa 
+# 3. við bjuggum til launs við fyrsta verkefnið og gátum notað hana aftur í seinna verkefninu. 
+
+#https://github.com/aronhr/SC-T-111-PROG/edit/master/Verkefni%208
+
 pos = 1.1
 travel = "(N)orth."
 no_print = True
