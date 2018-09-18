@@ -46,14 +46,14 @@ while True:
         pos -= 0.1
         no_print = True
     elif direction == "w":
-        if round_pos == 2.1 or round_pos == 1.3 or round_pos == 3.2:
+        if round_pos == 1.1 or round_pos == 2.1 or round_pos == 1.3 or round_pos == 3.2:
             print("Not a valid direction!")
             no_print = False
             continue
         pos -= 1.0
         no_print = True
     elif direction == "e":
-        if round_pos == 1.2 or round_pos == 2.2 or round_pos == 3.3 or round_pos == 3.2:
+        if round_pos == 1.1 or round_pos == 1.2 or round_pos == 2.2 or round_pos == 3.3 or round_pos == 3.2:
             print("Not a valid direction!")
             no_print = False
             continue
