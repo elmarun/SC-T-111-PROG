@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b3371fe-f66d-41be-88ce-c1b89f37fa74" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Verkefni 8/functions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Verkefni 8/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Verkefni 8/tileTraveller2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Verkefni 8/tileTraveller.py" beforeDir="false" afterPath="$PROJECT_DIR$/Verkefni 8/tileTraveller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Verkefni 8/tileTraveller2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Verkefni 8/tileTraveller2.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -125,14 +124,14 @@
           <entry key="MD" value="5" />
           <entry key="dummy" value="64" />
           <entry key="md" value="1" />
-          <entry key="py" value="14006" />
+          <entry key="py" value="14044" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="6" />
           <entry key="PLAIN_TEXT" value="64" />
-          <entry key="Python" value="13927" />
+          <entry key="Python" value="13965" />
           <entry key="Scratch" value="79" />
         </counts>
       </usages-collector>
@@ -147,8 +146,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Verkefni 8/tileTraveller.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="289">
-                  <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+                <state relative-caret-position="85">
+                  <caret line="5" column="66" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
                 </state>
               </provider>
             </entry>
@@ -160,8 +159,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Verkefni 8/tileTraveller2.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="243">
-                  <caret line="67" selection-start-line="67" selection-end-line="67" />
+                <state relative-caret-position="2006">
+                  <caret line="118" column="11" selection-start-line="118" selection-start-column="11" selection-end-line="118" selection-end-column="11" />
                 </state>
               </provider>
             </entry>
@@ -190,7 +189,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni/15. input a single integer, lets call it multiplier. Next your program should print all the integers between 2 and 15 (2 and 15 included).py" />
         <option value="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni/16. prints all the integers from 10 down to 0 (10 and 0 included).py" />
         <option value="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni/17. prints all the odd integers from 15 down to 3 (15 and 3 included).py" />
         <option value="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni/18. takes 2 integers as input, let’s call them low and high. Your program should print all the integers between low and high (low and high included).py" />
@@ -240,6 +238,7 @@
         <option value="$PROJECT_DIR$/Verkefni 7/Daemi6.py" />
         <option value="$PROJECT_DIR$/Verkefni 8/tiletraveller.py" />
         <option value="$PROJECT_DIR$/Verkefni 8/functions.py" />
+        <option value="$PROJECT_DIR$/Verkefni 8/tileTraveller2.py" />
         <option value="$PROJECT_DIR$/Verkefni 8/tileTraveller.py" />
       </list>
     </option>
@@ -834,15 +833,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Verkefni 8/tileTraveller2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        <state relative-caret-position="2006">
+          <caret line="118" column="11" selection-start-line="118" selection-start-column="11" selection-end-line="118" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Verkefni 8/tileTraveller.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+        <state relative-caret-position="85">
+          <caret line="5" column="66" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
         </state>
       </provider>
     </entry>

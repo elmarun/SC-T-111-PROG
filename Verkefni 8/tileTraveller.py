@@ -3,6 +3,7 @@
 # sett er inn "w" nema þá er dregið frá. X- eða y-ás getur ekki orið hærra en 3(1.1 = x, y) það eru líka fleiri lokaðar áttir/leiðir
 # sem þarf að passa. Ef staðsetningin verður 3.1 þá stoppar forritið. 
 
+# https://github.com/aronhr/SC-T-111-PROG/tree/master/Verkefni%208
 
 pos = 1.1
 travel = "(N)orth."

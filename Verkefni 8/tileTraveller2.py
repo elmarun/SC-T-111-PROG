@@ -14,6 +14,11 @@ def check_victory(p):
 
 
 def east(p, pr):
+    """
+    :param p:
+    :param pr:
+    :return:
+    """
     if p == 1.1 or p == 2.2 or p == 3.3 or p == 3.2 or p == 2.1 or p == 3.1:
         print("Not a valid direction!")
         pr = False
@@ -24,6 +29,11 @@ def east(p, pr):
 
 
 def west(p, pr):
+    """
+    :param p:
+    :param pr:
+    :return:
+    """
     if p == 1.1 or p == 1.2 or p == 2.1 or p == 1.3 or p == 3.2 or p == 3.1:
         print("Not a valid direction!")
         pr = False
@@ -34,6 +44,11 @@ def west(p, pr):
 
 
 def north(p, pr):
+    """
+    :param p:
+    :param pr:
+    :return:
+    """
     if p == 1.3 or p == 2.3 or p == 3.3 or p == 2.2:
         print("Not a valid direction!")
         pr = False
@@ -44,6 +59,11 @@ def north(p, pr):
 
 
 def south(p, pr):
+    """
+    :param p:
+    :param pr:
+    :return:
+    """
     if p == 1.1 or p == 2.1 or p == 2.3 or p == 3.1:
         print("Not a valid direction!")
         pr = False
@@ -54,6 +74,12 @@ def south(p, pr):
 
 
 def check_direction(d, p, pr):
+    """
+    :param d:
+    :param p:
+    :param pr:
+    :return:
+    """
     if d == "n":
         return north(p, pr)
     elif d == "s":
@@ -67,6 +93,10 @@ def check_direction(d, p, pr):
 
 
 def check_possible_directions(t):
+    """
+    :param t:
+    :return:
+    """
     if round_pos == 1.1:
         t = "(N)orth."
     elif round_pos == 1.2:
