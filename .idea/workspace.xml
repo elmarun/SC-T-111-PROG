@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b3371fe-f66d-41be-88ce-c1b89f37fa74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Verkefni 8/functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Verkefni 8/functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Verkefni 8/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Verkefni 8/tileTraveller2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Verkefni 8/tileTraveller.py" beforeDir="false" afterPath="$PROJECT_DIR$/Verkefni 8/tileTraveller.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -85,7 +87,7 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="14" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="1" />
@@ -97,7 +99,7 @@
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="18" />
+          <entry key="project.opened" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -121,7 +123,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="MD" value="5" />
-          <entry key="dummy" value="63" />
+          <entry key="dummy" value="64" />
           <entry key="md" value="1" />
           <entry key="py" value="14006" />
         </counts>
@@ -129,7 +131,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="6" />
-          <entry key="PLAIN_TEXT" value="63" />
+          <entry key="PLAIN_TEXT" value="64" />
           <entry key="Python" value="13927" />
           <entry key="Scratch" value="79" />
         </counts>
@@ -141,12 +143,12 @@
   <component name="FileEditorManager">
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Verkefni 8/tileTraveller.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-179">
-                  <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+                <state relative-caret-position="289">
+                  <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
                 </state>
               </provider>
             </entry>
@@ -154,19 +156,12 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Verkefni 8/functions.py">
+            <entry file="file://$PROJECT_DIR$/Verkefni 8/tileTraveller2.py">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="243">
-                  <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
-                  <folding>
-                    <element signature="e#74#119#1" />
-                    <element signature="e#1084#1570#0" />
-                    <marker date="1537272070250" expanded="false" signature="112:171" ph="..." />
-                    <marker date="1537272070250" expanded="true" signature="818:995" ph="..." />
-                    <marker date="1537272070250" expanded="true" signature="1295:1780" ph="..." />
-                  </folding>
+                  <caret line="67" selection-start-line="67" selection-end-line="67" />
                 </state>
               </provider>
             </entry>
@@ -244,8 +239,8 @@
         <option value="$PROJECT_DIR$/Verkefni 7/Dæmi5.py" />
         <option value="$PROJECT_DIR$/Verkefni 7/Daemi6.py" />
         <option value="$PROJECT_DIR$/Verkefni 8/tiletraveller.py" />
-        <option value="$PROJECT_DIR$/Verkefni 8/tileTraveller.py" />
         <option value="$PROJECT_DIR$/Verkefni 8/functions.py" />
+        <option value="$PROJECT_DIR$/Verkefni 8/tileTraveller.py" />
       </list>
     </option>
   </component>
@@ -255,7 +250,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -391,7 +386,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Verkefni 8/functions.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\aronh\Documents\GitHub\SC-T-111-PROG\Verkefni 8\tileTraveller2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -456,7 +451,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49918434" visible="true" weight="0.118336886" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918434" visible="true" weight="0.15991472" />
       <window_info id="Structure" order="1" sideWeight="0.5008157" side_tool="true" weight="0.13646056" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Query Editor" order="3" />
@@ -837,24 +832,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Verkefni 8/tileTraveller.py">
+    <entry file="file://$PROJECT_DIR$/Verkefni 8/tileTraveller2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-179">
-          <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        <state relative-caret-position="243">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Verkefni 8/functions.py">
+    <entry file="file://$PROJECT_DIR$/Verkefni 8/tileTraveller.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
-          <folding>
-            <element signature="e#74#119#1" />
-            <element signature="e#1084#1570#0" />
-            <marker date="1537272070250" expanded="false" signature="112:171" ph="..." />
-            <marker date="1537272070250" expanded="true" signature="818:995" ph="..." />
-            <marker date="1537272070250" expanded="true" signature="1295:1780" ph="..." />
-          </folding>
+        <state relative-caret-position="289">
+          <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
         </state>
       </provider>
     </entry>

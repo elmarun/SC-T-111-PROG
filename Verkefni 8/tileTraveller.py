@@ -38,8 +38,6 @@ while True:
     direction = input("Direction: ").lower()
 
     if direction == "n":
-        
-    # SC-T-111-PROG/Verkefni 8/tileTraveller.py
         if round_pos == 1.3 or round_pos == 2.3 or round_pos == 3.3 or round_pos == 2.2:
             print("Not a valid direction!")
             no_print = False
