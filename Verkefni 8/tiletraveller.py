@@ -1,37 +1,54 @@
-position = 1.1
-posible_travel = "(N)orth."
+pos = 1.1
+travel = "(N)orth"
 
-while position != 3.1:
-    print("You can travel:", posible_travel)
-    print(position)
-    direction = input("Direction: ").lower()
-    
-    elif position == 1.2:
-        posible_travel = "(N)orth or (E)ast or (S)outh."
-        direction = input("Direction: ").lower()
-    elif position == 2.2:
-        posible_travel = "(W)est or (S)outh."
-    elif position == 2.1:
-        posible_travel = "(N)orth."
-    elif position == 1.3:
-        posible_travel = "(E)east or (S)outh."
-    elif position == 2.3:
-        posible_travel = "(E)ast or (W)est."
-    elif position == 3.3:
-        posible_travel = "(W)est or (S)outh."
-    elif position == 3.2:
-        posible_travel = "(N)orth or (S)outh."
+while True:
+    round_pos = round(pos, 1)
 
-    elif direction == 'n':
-        position += round(0.1, 1)
-    elif direction == 's':
-        position -= round(0.1, 1)
-    elif direction == 'w':
-        position -= round(1.0, 1)
-    elif direction == 'e':
-        position += round(1.0, 1)
-
-    elif position == 3.1:
+    if round_pos == 3.1:
         print("Victory!")
         break
+
+    if round_pos == 1.1:
+        travel = "(N)orth"
+    elif round_pos == 1.2:
+        travel = "(N)orth or (W)est or (S)outh."
+    elif round_pos == 2.2:
+        travel = "(E)ast or (S)outh."
+    elif round_pos == 2.1:
+        travel = "(N)orth."
+    elif round_pos == 1.3:
+        travel = "(E)ast or (S)outh."
+    elif round_pos == 2.3:
+        travel = "(E)ast or (W)est."
+    elif round_pos == 3.3:
+        travel = "(S)outh or (W)est."
+    elif round_pos == 3.2:
+        travel = "(N)orth or (S)outh."
+
+    print("You can travel: ", travel)
+    direction = input("Direction: ").lower()
+
+    if direction == "n":
+        if round_pos == 1.3 or round_pos == 2.3 or round_pos == 3.3:
+            print("Not a valid direction!")
+            continue
+        pos += 0.1
+    elif direction == "s":
+        if round_pos == 1.1 or round_pos == 2.2 or round_pos == 2.1 or round_pos == 2.3:
+            print("Not a valid direction!")
+            continue
+        pos -= 0.1
+    elif direction == "w":
+        if round_pos == 2.1 or round_pos == 1.3 or round_pos == 3.2:
+            print("Not a valid direction!")
+            continue
+        pos -= 1.0
+    elif direction == "e":
+        if round_pos == 1.2 or round_pos == 2.2 or round_pos == 3.3 or round_pos == 3.2:
+            print("Not a valid direction!")
+            continue
+        pos += 1.0
+    else:
+        print("Not a valid direction!")
+
 
