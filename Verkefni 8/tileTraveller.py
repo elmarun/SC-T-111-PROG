@@ -1,3 +1,9 @@
+# Byrjunarreiturinn er 1.1 ef sett er inn "n" leggjum við 0.1 við 1.1(1.1 + 0.1 = 1.2) staðsetningin verður þá 1.2 og ef sett er
+# inn "s" er það alveg eins nema við drögum frá 0.1. Ef sett er inn "e" leggjum við 1 við staðsetninguna(1.1 + 1 = 2.1) og eins ef
+# sett er inn "w" nema þá er dregið frá. X- eða y-ás getur ekki orið hærra en 3(1.1 = x, y) það eru líka fleiri lokaðar áttir/leiðir
+# sem þarf að passa. Ef staðsetningin verður 3.1 þá stoppar forritið. 
+
+
 pos = 1.1
 travel = "(N)orth."
 no_print = True
