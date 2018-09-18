@@ -30,7 +30,7 @@
     <SUITE FILE_PATH="coverage/SC_T_111_PROG$18__takes_2_integers_as_input__lets_call_them_low_and_high__Your_program_should_print_all_the_integers_between_low_and_high__low_and_high_included_.coverage" NAME="18. takes 2 integers as input, let’s call them low and high. Your program should print all the integers between low and high (low and high included) Coverage Results" MODIFIED="1536618745546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni" />
     <SUITE FILE_PATH="coverage/SC_T_111_PROG$MAXIMUM_NUMBER.coverage" NAME="MAXIMUM NUMBER Coverage Results" MODIFIED="1536056499470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Assignment 5 Algorithms and git" />
     <SUITE FILE_PATH="coverage/SC_T_111_PROG$Dæmi5.coverage" NAME="Dæmi5 Coverage Results" MODIFIED="1536834805103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Verkefni 7" />
-    <SUITE FILE_PATH="coverage/SC_T_111_PROG$tiletraveller.coverage" NAME="tiletraveller Coverage Results" MODIFIED="1537266673478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Verkefni 8" />
+    <SUITE FILE_PATH="coverage/SC_T_111_PROG$tiletraveller.coverage" NAME="tiletraveller Coverage Results" MODIFIED="1537267493830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Verkefni 8" />
     <SUITE FILE_PATH="coverage/SC_T_111_PROG$2__Meðaltal_tveggja_talna__notkun_falls__function_.coverage" NAME="2. Meðaltal​ ​tveggja​ ​talna,​ ​notkun​ ​falls​ ​(function) Coverage Results" MODIFIED="1536633862243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Hlutaprof 1" />
     <SUITE FILE_PATH="coverage/SC_T_111_PROG$3_integers_as_input_and_prints_their_sum.coverage" NAME="3 integers as input and prints their sum Coverage Results" MODIFIED="1536577701357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni" />
     <SUITE FILE_PATH="coverage/SC_T_111_PROG$14___prints_all_the_integers_between_3_and_13__3_and_13_included__multiplied_by_two_.coverage" NAME="14.  prints all the integers between 3 and 13 (3 and 13 included) multiplied by two. Coverage Results" MODIFIED="1536617742640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni" />
@@ -122,14 +122,14 @@
           <entry key="MD" value="5" />
           <entry key="dummy" value="63" />
           <entry key="md" value="1" />
-          <entry key="py" value="12771" />
+          <entry key="py" value="12930" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="6" />
           <entry key="PLAIN_TEXT" value="63" />
-          <entry key="Python" value="12692" />
+          <entry key="Python" value="12851" />
           <entry key="Scratch" value="79" />
         </counts>
       </usages-collector>
@@ -142,8 +142,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Verkefni 8/tiletraveller.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="27" column="41" lean-forward="true" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+            <state relative-caret-position="170">
+              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -429,6 +429,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49918434" visible="true" weight="0.2428884" />
       <window_info id="Structure" order="1" sideWeight="0.5008157" side_tool="true" weight="0.13646056" />
@@ -820,8 +821,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Verkefni 8/tiletraveller.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="27" column="41" lean-forward="true" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+        <state relative-caret-position="170">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
         </state>
       </provider>
     </entry>
