@@ -1,4 +1,4 @@
-strating_pont = 1,1
+strating_pont = 1.1
 
 
 while position != 3.1:
