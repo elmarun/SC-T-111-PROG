@@ -5,33 +5,32 @@ while position != 3.1:
     print("You can travel:", posible_travel)
     print(position)
     direction = input("Direction: ").lower()
-    
+
     elif position == 1.2:
-        posible_travel = "(N)orth or (W)est or (S)outh."
-        direction = input("Direction: ").lower()
+    posible_travel = "(N)orth or (W)est or (S)outh."
+    direction = input("Direction: ").lower()
     elif position == 2.2:
-        posible_travel = "(E)ast or (S)outh."
+    posible_travel = "(E)ast or (S)outh."
     elif position == 2.1:
-        posible_travel = "(N)orth."
+    posible_travel = "(N)orth."
     elif position == 1.3:
-        posible_travel = "(N)orth or (S)outh."
+    posible_travel = "(N)orth or (S)outh."
     elif position == 2.3:
-        posible_travel = "(E)ast or (W)est."
+    posible_travel = "(E)ast or (W)est."
     elif position == 3.3:
-        posible_travel = "(E)ast or (S)outh."
+    posible_travel = "(E)ast or (S)outh."
     elif position == 3.2:
-        posible_travel = "(N)orth or (S)outh."
+    posible_travel = "(N)orth or (S)outh."
 
     elif direction == 'n':
-        position += round(0.1, 1)
+    position += round(0.1, 1)
     elif direction == 's':
-        position -= round(0.1, 1)
+    position -= round(0.1, 1)
     elif direction == 'w':
-        position -= round(1.0, 1)
+    position -= round(1.0, 1)
     elif direction == 'e':
-        position += round(1.0, 1)
+    position += round(1.0, 1)
 
     elif position == 3.1:
-        print("Victory!")
-        break
-
+    print("Victory!")
+    break
