@@ -27,9 +27,9 @@ while position != 3.1:
     elif direction == 's':
         position -= round(0.1, 1)
     elif direction == 'w':
-        position += round(1.0, 1)
-    elif direction == 'e':
         position -= round(1.0, 1)
+    elif direction == 'e':
+        position += round(1.0, 1)
 
     elif position == 3.1:
         print("Victory!")
