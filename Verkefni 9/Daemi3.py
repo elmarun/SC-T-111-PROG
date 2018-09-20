@@ -2,7 +2,7 @@ longest_word = ''
 
 with open('words.txt', 'r') as f:
     for word in f:
-        stripped = word.strip().replace(' ','')
+        stripped = word.strip().replace(' ', '')
         if len(stripped) > len(longest_word):
             longest_word = stripped
 
