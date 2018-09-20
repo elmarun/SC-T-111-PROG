@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b3371fe-f66d-41be-88ce-c1b89f37fa74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Verkefni 9/Daemi1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Verkefni 9/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Verkefni 9/Daemi4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -61,7 +60,7 @@
     <SUITE FILE_PATH="coverage/SC_T_111_PROG$test.coverage" NAME="test Coverage Results" MODIFIED="1535619266803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SC-T-111-PROG-Skilaverkefni/Skilaverkefni 1" />
     <SUITE FILE_PATH="coverage/SC_T_111_PROG$28__takes_an_integer_as_input__let_s_call_it_turns__This_integer_should_indicate_how_many_times_the_user_wants__The_program_should_then_print_how_many_negative_integers_the_user_input_and_how_many_positive_integers_the_user_input.coverage" NAME="28. takes an integer as input, let´s call it turns. This integer should indicate how many times the user wants. The program should then print how many negative integers the user input and how many positive integers the user input Coverage Results" MODIFIED="1536623998916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni" />
     <SUITE FILE_PATH="coverage/SC_T_111_PROG$15__input_a_single_integer__lets_call_it_multiplier__Next_your_program_should_print_all_the_integers_between_2_and_15__2_and_15_included_.coverage" NAME="15. input a single integer, lets call it multiplier. Next your program should print all the integers between 2 and 15 (2 and 15 included) Coverage Results" MODIFIED="1536618180778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni" />
-    <SUITE FILE_PATH="coverage/SC_T_111_PROG$Daemi4.coverage" NAME="Daemi4 Coverage Results" MODIFIED="1536832902467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Verkefni 7" />
+    <SUITE FILE_PATH="coverage/SC_T_111_PROG$Daemi4.coverage" NAME="Daemi4 Coverage Results" MODIFIED="1537440522947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Verkefni 9" />
     <SUITE FILE_PATH="coverage/SC_T_111_PROG$Daemi7.coverage" NAME="Daemi7 Coverage Results" MODIFIED="1536231107700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Verkefni 6" />
     <SUITE FILE_PATH="coverage/SC_T_111_PROG$6__nteger_as_input__lets_call_it_celsius__This_value_will_represent_a_temperature_on_the_celsius_scale.coverage" NAME="6. nteger as input, lets call it celsius. This value will represent a temperature on the celsius scale Coverage Results" MODIFIED="1536615408077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni" />
     <SUITE FILE_PATH="coverage/SC_T_111_PROG$27___takes_an_integer_as_input__let_s_call_it_turns__This_integer_should_indicate_how_many_times_the_user_wants_The_program_should_then_print_the_sum_of_all_the_negative_integers.coverage" NAME="27.  takes an integer as input, let´s call it turns. This integer should indicate how many times the user wants The program should then print the sum of all the negative integers Coverage Results" MODIFIED="1536623473675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni" />
@@ -111,7 +110,7 @@
           <entry key="MD" value="1" />
           <entry key="md" value="5" />
           <entry key="pstat" value="1" />
-          <entry key="py" value="112" />
+          <entry key="py" value="113" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
@@ -120,7 +119,7 @@
           <entry key="Markdown" value="5" />
           <entry key="PLAIN_TEXT" value="4" />
           <entry key="Profiler Session" value="1" />
-          <entry key="Python" value="111" />
+          <entry key="Python" value="112" />
           <entry key="Scratch" value="1" />
         </counts>
       </usages-collector>
@@ -129,7 +128,7 @@
           <entry key="MD" value="5" />
           <entry key="dummy" value="64" />
           <entry key="md" value="1" />
-          <entry key="py" value="15136" />
+          <entry key="py" value="15488" />
           <entry key="txt" value="24" />
         </counts>
       </usages-collector>
@@ -137,7 +136,7 @@
         <counts>
           <entry key="Markdown" value="6" />
           <entry key="PLAIN_TEXT" value="88" />
-          <entry key="Python" value="15057" />
+          <entry key="Python" value="15409" />
           <entry key="Scratch" value="79" />
         </counts>
       </usages-collector>
@@ -147,11 +146,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Verkefni 9/Daemi1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="29" lean-forward="true" selection-end-line="4" />
+            <state>
+              <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Verkefni 9/Daemi4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="21" lean-forward="true" selection-end-line="25" />
+              <folding>
+                <marker date="1537440409720" expanded="true" signature="31:645" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -196,7 +207,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni/21.  same program as in assignment 20 with one change. Now the text you picked value where value is the number that was input should only be printed if that value is an odd number.py" />
         <option value="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni/22. takes 2 integers as input, let’s call them low and high. Your program should print the sum of all the integers between low and high(low and high included).py" />
         <option value="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni/23.  takes 2 integers as input, let’s call them low and high. Your program should print the sum of all the odd numbers between low and high(low and high included).py" />
         <option value="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni/24.  takes 2 integers as input, let’s call them low and high. Your program should print the sum of all the integers between low and high(low and high included) that are divisible by 3.py" />
@@ -247,6 +257,7 @@
         <option value="$PROJECT_DIR$/../SC-T-111-PROG-Skilaverkefni/Skilaverkefni 4/a.py" />
         <option value="$PROJECT_DIR$/Verkefni 9/test.txt" />
         <option value="$PROJECT_DIR$/Verkefni 9/Daemi1.py" />
+        <option value="$PROJECT_DIR$/Verkefni 9/Daemi4.py" />
       </list>
     </option>
   </component>
@@ -282,15 +293,6 @@
               <item name="SC-T-111-PROG" type="462c0819:PsiDirectoryNode" />
               <item name="Verkefni 9" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="SC-T-111-PROG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SC-T-111-PROG-Skilaverkefni" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SC-T-111-PROG" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SC-T-111-PROG-Skilaverkefni" type="462c0819:PsiDirectoryNode" />
-              <item name="Skilaverkefni 2" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -322,7 +324,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Daemi1">
+  <component name="RunManager" selected="Python.Daemi4">
     <configuration name="Daemi1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SC-T-111-PROG" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -345,6 +347,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Daemi4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SC-T-111-PROG" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Verkefni 9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Verkefni 9/Daemi4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="a" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SC-T-111-PROG-Skilaverkefni" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -359,28 +383,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../SC-T-111-PROG-Skilaverkefni/Skilaverkefni 4/a.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="SC-T-111-PROG" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Verkefni 8" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\aronh\Documents\GitHub\SC-T-111-PROG\Verkefni 8\tileTraveller2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -434,19 +436,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.functions" />
       <item itemvalue="Python.hlutabref" />
       <item itemvalue="Python.priceOfStock" />
       <item itemvalue="Python.a" />
       <item itemvalue="Python.Daemi1" />
+      <item itemvalue="Python.Daemi4" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Daemi4" />
         <item itemvalue="Python.Daemi1" />
         <item itemvalue="Python.a" />
         <item itemvalue="Python.priceOfStock" />
         <item itemvalue="Python.hlutabref" />
-        <item itemvalue="Python.functions" />
       </list>
     </recent_temporary>
   </component>
@@ -504,13 +506,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni/17. prints all the odd integers from 15 down to 3 (15 and 3 included).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni/18. takes 2 integers as input, let’s call them low and high. Your program should print all the integers between low and high (low and high included).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -851,8 +846,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Verkefni 9/Daemi1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="29" lean-forward="true" selection-end-line="4" />
+        <state>
+          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verkefni 9/Daemi4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="21" lean-forward="true" selection-end-line="25" />
+          <folding>
+            <marker date="1537440409720" expanded="true" signature="31:645" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
