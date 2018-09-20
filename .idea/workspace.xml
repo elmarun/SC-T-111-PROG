@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b3371fe-f66d-41be-88ce-c1b89f37fa74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Verkefni 9/Daemi5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Verkefni 9/words.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Verkefni 9/Daemi5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Verkefni 9/Daemi5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Verkefni 9/sentences.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Verkefni 9/sentences.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,7 +28,7 @@
     <SUITE FILE_PATH="coverage/SC_T_111_PROG$2_strings_as_input__let_s_call_them_firstname_and_lastname__They_should_hold__as_the_names_of_them_imply__the_first_and_last_name_of_the_user.coverage" NAME="2 strings as input, let´s call them firstname and lastname. They should hold (as the names of them imply) the first and last name of the user Coverage Results" MODIFIED="1536615092894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni" />
     <SUITE FILE_PATH="coverage/SC_T_111_PROG$Character_counts.coverage" NAME="Character_counts Coverage Results" MODIFIED="1536241849281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SC-T-111-PROG-Skilaverkefni/Skilaverkefni 2" />
     <SUITE FILE_PATH="coverage/SC_T_111_PROG$26__takes_an_integer_as_input__let_s_call_it_turns__This_integer_should_indicate_how_many_times_the_user_wants_The_program_should_then_print_how_many_negative_integers.coverage" NAME="26. takes an integer as input, let´s call it turns. This integer should indicate how many times the user wants The program should then print how many negative integers Coverage Results" MODIFIED="1536622585309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni" />
-    <SUITE FILE_PATH="coverage/SC_T_111_PROG$Daemi3.coverage" NAME="Daemi3 Coverage Results" MODIFIED="1536832374126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Verkefni 7" />
+    <SUITE FILE_PATH="coverage/SC_T_111_PROG$Daemi3.coverage" NAME="Daemi3 Coverage Results" MODIFIED="1537442270801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Verkefni 9" />
     <SUITE FILE_PATH="coverage/SC_T_111_PROG$4__MULTIPLICATION_TABLE.coverage" NAME="4. MULTIPLICATION TABLE Coverage Results" MODIFIED="1536658781813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Hlutaprof 1 2018" />
     <SUITE FILE_PATH="coverage/SC_T_111_PROG$18__takes_2_integers_as_input__lets_call_them_low_and_high__Your_program_should_print_all_the_integers_between_low_and_high__low_and_high_included_.coverage" NAME="18. takes 2 integers as input, let’s call them low and high. Your program should print all the integers between low and high (low and high included) Coverage Results" MODIFIED="1536618745546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni" />
     <SUITE FILE_PATH="coverage/SC_T_111_PROG$a.coverage" NAME="a Coverage Results" MODIFIED="1537433631662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SC-T-111-PROG-Skilaverkefni/Skilaverkefni 4" />
@@ -83,7 +82,7 @@
     <SUITE FILE_PATH="coverage/SC_T_111_PROG$24___takes_2_integers_as_input__lets_call_them_low_and_high__Your_program_should_print_the_sum_of_all_the_integers_between_low_and_high_low_and_high_included__that_are_divisible_by_3.coverage" NAME="24.  takes 2 integers as input, let’s call them low and high. Your program should print the sum of all the integers between low and high(low and high included) that are divisible by 3 Coverage Results" MODIFIED="1536620505166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni" />
     <SUITE FILE_PATH="coverage/SC_T_111_PROG$hlutabref.coverage" NAME="hlutabref Coverage Results" MODIFIED="1537282281194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SC-T-111-PROG-Skilaverkefni/Skilaverkefni 4" />
     <SUITE FILE_PATH="coverage/SC_T_111_PROG$10__takes_1_integer_as_input__The_program_should_print_Less_than_10.coverage" NAME="10. takes 1 integer as input. The program should print ”Less than 10” Coverage Results" MODIFIED="1536617420384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni" />
-    <SUITE FILE_PATH="coverage/SC_T_111_PROG$Daemi5.coverage" NAME="Daemi5 Coverage Results" MODIFIED="1537441819523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Verkefni 9" />
+    <SUITE FILE_PATH="coverage/SC_T_111_PROG$Daemi5.coverage" NAME="Daemi5 Coverage Results" MODIFIED="1537442278712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Verkefni 9" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1026677112">
@@ -129,7 +128,7 @@
           <entry key="MD" value="5" />
           <entry key="dummy" value="64" />
           <entry key="md" value="1" />
-          <entry key="py" value="15654" />
+          <entry key="py" value="15688" />
           <entry key="txt" value="24" />
         </counts>
       </usages-collector>
@@ -137,7 +136,7 @@
         <counts>
           <entry key="Markdown" value="6" />
           <entry key="PLAIN_TEXT" value="88" />
-          <entry key="Python" value="15575" />
+          <entry key="Python" value="15609" />
           <entry key="Scratch" value="79" />
         </counts>
       </usages-collector>
@@ -169,7 +168,7 @@
         <entry file="file://$PROJECT_DIR$/Verkefni 9/Daemi3.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-end-line="11" />
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -187,7 +186,7 @@
         <entry file="file://$PROJECT_DIR$/Verkefni 9/Daemi5.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <caret line="7" lean-forward="true" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -391,6 +390,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Daemi3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SC-T-111-PROG" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Verkefni 9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Verkefni 9/Daemi3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Daemi4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SC-T-111-PROG" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -457,42 +478,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="priceOfStock" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="SC-T-111-PROG-Skilaverkefni" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../SC-T-111-PROG-Skilaverkefni/Skilaverkefni 4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../SC-T-111-PROG-Skilaverkefni/Skilaverkefni 4/priceOfStock.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.priceOfStock" />
       <item itemvalue="Python.a" />
       <item itemvalue="Python.Daemi1" />
       <item itemvalue="Python.Daemi4" />
       <item itemvalue="Python.Daemi5" />
+      <item itemvalue="Python.Daemi3" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.Daemi5" />
+        <item itemvalue="Python.Daemi3" />
         <item itemvalue="Python.Daemi4" />
         <item itemvalue="Python.Daemi1" />
         <item itemvalue="Python.a" />
-        <item itemvalue="Python.priceOfStock" />
       </list>
     </recent_temporary>
   </component>
@@ -853,20 +852,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Verkefni 9/Daemi4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Verkefni 9/Daemi3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Verkefni 9/Daemi2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -887,10 +872,24 @@
     <entry file="file://$PROJECT_DIR$/Verkefni 9/sentences.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Verkefni 9/Daemi4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verkefni 9/Daemi3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Verkefni 9/Daemi5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" lean-forward="true" selection-end-line="7" />
         </state>
       </provider>
     </entry>
