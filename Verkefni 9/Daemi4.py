@@ -20,4 +20,3 @@ def safe_input(prompt, a_type):
 print(safe_input('Please enter an integer: ', int))
 print(safe_input('Please enter a float: ', float))
 print(safe_input('Please enter a string: ', str))
-

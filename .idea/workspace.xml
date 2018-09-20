@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b3371fe-f66d-41be-88ce-c1b89f37fa74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Verkefni 9/Daemi4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Verkefni 9/Daemi4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Verkefni 9/Daemi4.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -128,7 +127,7 @@
           <entry key="MD" value="5" />
           <entry key="dummy" value="64" />
           <entry key="md" value="1" />
-          <entry key="py" value="15488" />
+          <entry key="py" value="15495" />
           <entry key="txt" value="24" />
         </counts>
       </usages-collector>
@@ -136,7 +135,7 @@
         <counts>
           <entry key="Markdown" value="6" />
           <entry key="PLAIN_TEXT" value="88" />
-          <entry key="Python" value="15409" />
+          <entry key="Python" value="15416" />
           <entry key="Scratch" value="79" />
         </counts>
       </usages-collector>
@@ -158,11 +157,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Verkefni 9/Daemi4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="21" lean-forward="true" selection-end-line="25" />
-              <folding>
-                <marker date="1537440409720" expanded="true" signature="31:645" ph="..." />
-              </folding>
+            <state relative-caret-position="374">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -853,11 +849,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Verkefni 9/Daemi4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="21" lean-forward="true" selection-end-line="25" />
-          <folding>
-            <marker date="1537440409720" expanded="true" signature="31:645" ph="..." />
-          </folding>
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
