@@ -1,6 +1,7 @@
 with open("words.txt", "r") as rf:
     for line in rf:
-        stripped = line.strip().replace('.', '\n')
+        replace = line.replace('. ', '.\n')
+        stripped = replace.strip()
         print(stripped, end=" ")
 
     with open("sentences.txt", "w") as w:
