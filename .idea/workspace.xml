@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b3371fe-f66d-41be-88ce-c1b89f37fa74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Verkefni 10/Daemi1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Verkefni 10/Daemi2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Verkefni 10/Daemi3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Verkefni 10/Daemi4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Verkefni 10/Daemi5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Verkefni 10/Daemi1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Verkefni 10/Daemi1.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,6 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/SC_T_111_PROG$Daemi5__1_.coverage" NAME="Daemi5 (1) Coverage Results" MODIFIED="1537878484182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Verkefni 10" />
     <SUITE FILE_PATH="coverage/SC_T_111_PROG$functions.coverage" NAME="functions Coverage Results" MODIFIED="1537272063600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Verkefni 8" />
     <SUITE FILE_PATH="coverage/SC_T_111_PROG$Daemi2.coverage" NAME="Daemi2 Coverage Results" MODIFIED="1537875712237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Verkefni 10" />
     <SUITE FILE_PATH="coverage/SC_T_111_PROG$scratch_3.coverage" NAME="scratch_3 Coverage Results" MODIFIED="1537484529704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
@@ -49,6 +52,7 @@
     <SUITE FILE_PATH="coverage/SC_T_111_PROG$Daemi8.coverage" NAME="Daemi8 Coverage Results" MODIFIED="1535626695598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Verkefni 4" />
     <SUITE FILE_PATH="coverage/SC_T_111_PROG$11__takes_2_integers_as_input__lets_call_them_a_and_b__Next_the_user_should_be_able_to_input_another_integer_which_we_shall_call_choice.coverage" NAME="11. takes 2 integers as input, let’s call them a and b. Next the user should be able to input another integer which we shall call choice Coverage Results" MODIFIED="1536617426074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni" />
     <SUITE FILE_PATH="coverage/SC_T_111_PROG$8__Námundun_að_næstu_heiltölu__notkun_falls__function_.coverage" NAME="8. Námundun​ ​að​ ​næstu​ ​heiltölu,​ ​notkun​ ​falls​ ​(function) Coverage Results" MODIFIED="1536635032469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Hlutaprof 1" />
+    <SUITE FILE_PATH="coverage/SC_T_111_PROG$Daemi3__1_.coverage" NAME="Daemi3 (1) Coverage Results" MODIFIED="1537877763954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Verkefni 10" />
     <SUITE FILE_PATH="coverage/SC_T_111_PROG$25___takes_2_integers_as_input__lets_call_them_low_and_high__Your_program_should_print_the_sum_of_all_the_integers_between_low_and_high_low_and_high_included__that_are_divisible_by_3_or_5.coverage" NAME="25.  takes 2 integers as input, let’s call them low and high. Your program should print the sum of all the integers between low and high(low and high included) that are divisible by 3 or 5 Coverage Results" MODIFIED="1536621986487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni" />
     <SUITE FILE_PATH="coverage/SC_T_111_PROG$12__prints_all_the_integers_between_1_and_10__1_and_10_included_.coverage" NAME="12. prints all the integers between 1 and 10 (1 and 10 included) Coverage Results" MODIFIED="1536617583153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni" />
     <SUITE FILE_PATH="coverage/SC_T_111_PROG$2__DOWN_TO.coverage" NAME="2. DOWN TO Coverage Results" MODIFIED="1536655888613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Hlutaprof 1 2018" />
@@ -62,7 +66,7 @@
     <SUITE FILE_PATH="coverage/SC_T_111_PROG$test.coverage" NAME="test Coverage Results" MODIFIED="1535619266803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SC-T-111-PROG-Skilaverkefni/Skilaverkefni 1" />
     <SUITE FILE_PATH="coverage/SC_T_111_PROG$28__takes_an_integer_as_input__let_s_call_it_turns__This_integer_should_indicate_how_many_times_the_user_wants__The_program_should_then_print_how_many_negative_integers_the_user_input_and_how_many_positive_integers_the_user_input.coverage" NAME="28. takes an integer as input, let´s call it turns. This integer should indicate how many times the user wants. The program should then print how many negative integers the user input and how many positive integers the user input Coverage Results" MODIFIED="1536623998916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni" />
     <SUITE FILE_PATH="coverage/SC_T_111_PROG$15__input_a_single_integer__lets_call_it_multiplier__Next_your_program_should_print_all_the_integers_between_2_and_15__2_and_15_included_.coverage" NAME="15. input a single integer, lets call it multiplier. Next your program should print all the integers between 2 and 15 (2 and 15 included) Coverage Results" MODIFIED="1536618180778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni" />
-    <SUITE FILE_PATH="coverage/SC_T_111_PROG$Daemi4.coverage" NAME="Daemi4 Coverage Results" MODIFIED="1537440522947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Verkefni 9" />
+    <SUITE FILE_PATH="coverage/SC_T_111_PROG$Daemi4.coverage" NAME="Daemi4 Coverage Results" MODIFIED="1537877904347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Verkefni 10" />
     <SUITE FILE_PATH="coverage/SC_T_111_PROG$Daemi7.coverage" NAME="Daemi7 Coverage Results" MODIFIED="1536231107700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Verkefni 6" />
     <SUITE FILE_PATH="coverage/SC_T_111_PROG$6__nteger_as_input__lets_call_it_celsius__This_value_will_represent_a_temperature_on_the_celsius_scale.coverage" NAME="6. nteger as input, lets call it celsius. This value will represent a temperature on the celsius scale Coverage Results" MODIFIED="1536615408077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni" />
     <SUITE FILE_PATH="coverage/SC_T_111_PROG$27___takes_an_integer_as_input__let_s_call_it_turns__This_integer_should_indicate_how_many_times_the_user_wants_The_program_should_then_print_the_sum_of_all_the_negative_integers.coverage" NAME="27.  takes an integer as input, let´s call it turns. This integer should indicate how many times the user wants The program should then print the sum of all the negative integers Coverage Results" MODIFIED="1536623473675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni" />
@@ -113,7 +117,7 @@
           <entry key="MD" value="1" />
           <entry key="md" value="5" />
           <entry key="pstat" value="1" />
-          <entry key="py" value="124" />
+          <entry key="py" value="127" />
           <entry key="txt" value="5" />
         </counts>
       </usages-collector>
@@ -122,7 +126,7 @@
           <entry key="Markdown" value="5" />
           <entry key="PLAIN_TEXT" value="7" />
           <entry key="Profiler Session" value="1" />
-          <entry key="Python" value="122" />
+          <entry key="Python" value="125" />
           <entry key="Scratch" value="2" />
         </counts>
       </usages-collector>
@@ -131,7 +135,7 @@
           <entry key="MD" value="5" />
           <entry key="dummy" value="64" />
           <entry key="md" value="1" />
-          <entry key="py" value="15945" />
+          <entry key="py" value="15978" />
           <entry key="txt" value="24" />
         </counts>
       </usages-collector>
@@ -139,7 +143,7 @@
         <counts>
           <entry key="Markdown" value="6" />
           <entry key="PLAIN_TEXT" value="88" />
-          <entry key="Python" value="15817" />
+          <entry key="Python" value="15850" />
           <entry key="Scratch" value="128" />
         </counts>
       </usages-collector>
@@ -152,20 +156,47 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Verkefni 10/Daemi1.py">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Verkefni 10/Daemi2.py">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+              <folding>
+                <marker date="1537875722060" expanded="true" signature="16:131" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Verkefni 10/Daemi3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Verkefni 10/Daemi4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" lean-forward="true" selection-end-line="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Verkefni 10/Daemi2.py">
+        <entry file="file://$PROJECT_DIR$/Verkefni 10/Daemi5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <marker date="1537875722060" expanded="true" signature="16:131" ph="..." />
-              </folding>
+            <state relative-caret-position="323">
+              <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -237,9 +268,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni/27.  takes an integer as input, let´s call it turns. This integer should indicate how many times the user wants The program should then print the sum of all the negative integers.py" />
-        <option value="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni/28. takes an integer as input, let´s call it turns. This integer should indicate how many times the user wants. The program should then print how many negative integers the user input and how many positive integers the user input.py" />
-        <option value="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni/28. takes an integer as input. This integer should indicate how many times the user wants. The program should then print how many negative integers the user input and positive.py" />
         <option value="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni/28. sum of all the positive integers and the sum of all the negative integers.py" />
         <option value="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni/29. sum of all the positive integers and the sum of all the negative integers.py" />
         <option value="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni/README.md" />
@@ -286,8 +314,11 @@
         <option value="$PROJECT_DIR$/Verkefni 9/words.txt" />
         <option value="$PROJECT_DIR$/Verkefni 9/Daemi5.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.py" />
-        <option value="$PROJECT_DIR$/Verkefni 10/Daemi1.py" />
         <option value="$PROJECT_DIR$/Verkefni 10/Daemi2.py" />
+        <option value="$PROJECT_DIR$/Verkefni 10/Daemi1.py" />
+        <option value="$PROJECT_DIR$/Verkefni 10/Daemi3.py" />
+        <option value="$PROJECT_DIR$/Verkefni 10/Daemi4.py" />
+        <option value="$PROJECT_DIR$/Verkefni 10/Daemi5.py" />
       </list>
     </option>
   </component>
@@ -321,7 +352,7 @@
             <path>
               <item name="SC-T-111-PROG" type="b2602c69:ProjectViewProjectNode" />
               <item name="SC-T-111-PROG" type="462c0819:PsiDirectoryNode" />
-              <item name="Verkefni 9" type="462c0819:PsiDirectoryNode" />
+              <item name="Verkefni 10" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SC-T-111-PROG" type="b2602c69:ProjectViewProjectNode" />
@@ -363,7 +394,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Daemi2">
+  <component name="RunManager" selected="Python.Daemi5 (1)">
     <configuration name="Daemi2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SC-T-111-PROG" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -386,7 +417,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Daemi3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Daemi3 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SC-T-111-PROG" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -394,12 +425,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Verkefni 9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Verkefni 10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Verkefni 9/Daemi3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Verkefni 10/Daemi3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -416,12 +447,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Verkefni 9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Verkefni 10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Verkefni 9/Daemi4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Verkefni 10/Daemi4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -430,7 +461,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Daemi5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Daemi5 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SC-T-111-PROG" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -438,12 +469,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Verkefni 9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Verkefni 10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Verkefni 9/Daemi5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Verkefni 10/Daemi5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -475,19 +506,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Daemi4" />
-      <item itemvalue="Python.Daemi5" />
-      <item itemvalue="Python.Daemi3" />
       <item itemvalue="Python.scratch_3" />
       <item itemvalue="Python.Daemi2" />
+      <item itemvalue="Python.Daemi3 (1)" />
+      <item itemvalue="Python.Daemi4" />
+      <item itemvalue="Python.Daemi5 (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Daemi5 (1)" />
+        <item itemvalue="Python.Daemi4" />
+        <item itemvalue="Python.Daemi3 (1)" />
         <item itemvalue="Python.Daemi2" />
         <item itemvalue="Python.scratch_3" />
-        <item itemvalue="Python.Daemi5" />
-        <item itemvalue="Python.Daemi3" />
-        <item itemvalue="Python.Daemi4" />
       </list>
     </recent_temporary>
   </component>
@@ -506,7 +537,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49918434" visible="true" weight="0.16471216" />
       <window_info id="Structure" order="1" sideWeight="0.5008157" side_tool="true" weight="0.13646056" />
@@ -575,27 +605,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni/26. takes an integer as input, let´s call it turns. This integer should indicate how many times the user wants The program should then print how many negative integers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="15" lean-forward="true" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni/27.  takes an integer as input, let´s call it turns. This integer should indicate how many times the user wants The program should then print the sum of all the negative integers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni/28. takes an integer as input. This integer should indicate how many times the user wants. The program should then print how many negative integers the user input and positive.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni/29. sum of all the positive integers and the sum of all the negative integers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -863,13 +872,6 @@
     <entry file="file://$PROJECT_DIR$/Verkefni 9/sentince.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Verkefni 10/Daemi1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Verkefni 9/Daemi1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -907,11 +909,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Verkefni 10/Daemi2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="136">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
           <folding>
             <marker date="1537875722060" expanded="true" signature="16:131" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verkefni 10/Daemi1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verkefni 10/Daemi3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verkefni 10/Daemi4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verkefni 10/Daemi5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
         </state>
       </provider>
     </entry>

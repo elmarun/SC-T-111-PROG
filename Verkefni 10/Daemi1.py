@@ -1,14 +1,14 @@
 import string
-unique_letters = []
 
 sentence = input("Input a sentence: ")
 
-for x in sentence:
-    unique_letters.append(x)
+sentences = sentence.split(".")
+unique_letters = []
 
-    if 
-
-
+for sentence in sentences:
+    for letter in sentence:
+        if letter not in unique_letters and letter.isalpha():
+            unique_letters.append(letter)
 
 # Here you should add the missing part
 
