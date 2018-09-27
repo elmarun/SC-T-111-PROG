@@ -1,10 +1,7 @@
 #list_to_tuple function goes here
-def list_to_tuple(listi):
+def list_to_tuple(list):
     try:
-        new_list = []
-        for i in listi:
-            new_list.append(int(i))
-        return tuple(new_list)
+        return tuple([int(x) for x in list])
     except Exception:
         print("Error. Please enter only integers.")
         return tuple()
