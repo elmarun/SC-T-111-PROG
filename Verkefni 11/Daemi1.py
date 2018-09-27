@@ -23,5 +23,6 @@ choice = input("Enter choice (m,r): ").lower()
 if choice == "m":
     numbers = input()
     numbers = numbers.split(",")
-    print(mutate_list(i, numbers[0], numbers[1]))
+    m = mutate_list(i, int(numbers[0]), int(numbers[1]))
+    print(i)
 
