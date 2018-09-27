@@ -1,10 +1,13 @@
 #list_to_tuple function goes here
 def list_to_tuple(listi):
-    for x in listi:
-        if x.isalpha():
-            print("Error. Please enter only integers.")
-            return tuple()
-    return tuple(listi)
+    t, new_list = (), []
+    try:
+        for element in listi:
+            new_list.append(int(element))
+        return tuple(new_list)
+    except ValueError:
+        print("Error. Please enter only integers.")
+        return t
 
 
 # Main program starts here - DO NOT change it
