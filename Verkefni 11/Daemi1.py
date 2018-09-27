@@ -16,16 +16,19 @@ def get_list():
     return user_list
 
 # Main program starts here
-value_list = get_list()
-print(value_list)
-choice = input("Enter choice (m,r): ")
+
+
+i = get_list()
+print(i)
+choice = input("Enter choice (m,r): ").lower()
 if choice == "m":
-    index, v = input().split(",")
-    mutate_list(value_list, int(index), int(v))
-    print(value_list)
+    numbers = input()
+    numbers = numbers.split(",")
+    mutate_list(i, int(numbers[0]), int(numbers[1]))
+    print(i)
 elif choice == "r":
-    index_num = input()
-    remove_ch(value_list, int(index_num))
-    print(value_list)
+    numbers = input()
+    remove_ch(i, int(numbers))
+    print(i)
 else:
-    print(value_list)
+    print(i)
