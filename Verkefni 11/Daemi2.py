@@ -1,5 +1,9 @@
 #list_to_tuple function goes here
 def list_to_tuple(listi):
+    for x in listi:
+        if x.isalpha():
+            print("Error. Please enter only integers.")
+            return tuple()
     return tuple(listi)
 
 
