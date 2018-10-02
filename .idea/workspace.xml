@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b3371fe-f66d-41be-88ce-c1b89f37fa74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Verkefni 12/Daemi4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Verkefni 12/Daemi5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/.idea/SC-T-111-PROG-Hopverkefni.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/.idea/SC-T-111-PROG-Hopverkefni.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -88,7 +89,7 @@
     <SUITE FILE_PATH="coverage/SC_T_111_PROG$24___takes_2_integers_as_input__lets_call_them_low_and_high__Your_program_should_print_the_sum_of_all_the_integers_between_low_and_high_low_and_high_included__that_are_divisible_by_3.coverage" NAME="24.  takes 2 integers as input, let’s call them low and high. Your program should print the sum of all the integers between low and high(low and high included) that are divisible by 3 Coverage Results" MODIFIED="1536620505166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni" />
     <SUITE FILE_PATH="coverage/SC_T_111_PROG$hlutabref.coverage" NAME="hlutabref Coverage Results" MODIFIED="1537282281194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SC-T-111-PROG-Skilaverkefni/Skilaverkefni 4" />
     <SUITE FILE_PATH="coverage/SC_T_111_PROG$10__takes_1_integer_as_input__The_program_should_print_Less_than_10.coverage" NAME="10. takes 1 integer as input. The program should print ”Less than 10” Coverage Results" MODIFIED="1536617420384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Æfingaverkefni" />
-    <SUITE FILE_PATH="coverage/SC_T_111_PROG$Daemi5.coverage" NAME="Daemi5 Coverage Results" MODIFIED="1537442278712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Verkefni 9" />
+    <SUITE FILE_PATH="coverage/SC_T_111_PROG$Daemi5.coverage" NAME="Daemi5 Coverage Results" MODIFIED="1538476228795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Verkefni 12" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1026677112">
@@ -118,7 +119,7 @@
           <entry key="MD" value="1" />
           <entry key="md" value="5" />
           <entry key="pstat" value="1" />
-          <entry key="py" value="140" />
+          <entry key="py" value="141" />
           <entry key="txt" value="7" />
         </counts>
       </usages-collector>
@@ -127,7 +128,7 @@
           <entry key="Markdown" value="5" />
           <entry key="PLAIN_TEXT" value="9" />
           <entry key="Profiler Session" value="1" />
-          <entry key="Python" value="137" />
+          <entry key="Python" value="138" />
           <entry key="Scratch" value="3" />
         </counts>
       </usages-collector>
@@ -136,7 +137,7 @@
           <entry key="MD" value="5" />
           <entry key="dummy" value="64" />
           <entry key="md" value="1" />
-          <entry key="py" value="17638" />
+          <entry key="py" value="17832" />
           <entry key="txt" value="26" />
         </counts>
       </usages-collector>
@@ -144,7 +145,7 @@
         <counts>
           <entry key="Markdown" value="6" />
           <entry key="PLAIN_TEXT" value="90" />
-          <entry key="Python" value="17474" />
+          <entry key="Python" value="17668" />
           <entry key="Scratch" value="164" />
         </counts>
       </usages-collector>
@@ -154,18 +155,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../SC-T-111-PROG-Skilaverkefni/Skilaverkefni 5/scrambledEnglish.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="17" lean-forward="true" selection-start-line="4" selection-end-line="14" selection-end-column="17" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Verkefni 12/Daemi1.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -203,23 +192,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Verkefni 12/Daemi4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+            <state relative-caret-position="68">
+              <caret line="4" column="27" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="4" selection-end-column="27" />
               <folding>
-                <marker date="1538475663350" expanded="true" signature="247:249" ph="..." />
+                <marker date="1538475816385" expanded="true" signature="210:212" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Verkefni 12/test.txt">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Verkefni 12/Daemi5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="408">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <marker date="1538476432401" expanded="true" signature="68:346" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -246,7 +238,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Hlutaprof 1/8. Námundun​ ​að​ ​næstu​ ​heiltölu,​ ​notkun​ ​falls​ ​(function).py" />
         <option value="$PROJECT_DIR$/../SC-T-111-PROG-Hopverkefni/Hlutaprof 1/README.md" />
         <option value="$PROJECT_DIR$/Verkefni 1/daemi1.py" />
         <option value="$PROJECT_DIR$/Verkefni 1/daemi2.py" />
@@ -297,6 +288,7 @@
         <option value="$PROJECT_DIR$/Verkefni 12/test.txt" />
         <option value="$PROJECT_DIR$/Verkefni 12/Daemi3.py" />
         <option value="$PROJECT_DIR$/Verkefni 12/Daemi4.py" />
+        <option value="$PROJECT_DIR$/Verkefni 12/Daemi5.py" />
       </list>
     </option>
   </component>
@@ -306,7 +298,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -372,7 +364,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Daemi4">
+  <component name="RunManager" selected="Python.Daemi5">
     <configuration name="Daemi1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SC-T-111-PROG" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -387,28 +379,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Verkefni 12/Daemi1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Daemi1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="SC-T-111-PROG" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Verkefni 11" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Verkefni 11/Daemi1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -483,20 +453,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Daemi5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SC-T-111-PROG" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Verkefni 12" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Verkefni 12/Daemi5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.Daemi1" />
       <item itemvalue="Python.Daemi1 (1)" />
       <item itemvalue="Python.Daemi2" />
       <item itemvalue="Python.Daemi3" />
       <item itemvalue="Python.Daemi4" />
+      <item itemvalue="Python.Daemi5" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Daemi5" />
         <item itemvalue="Python.Daemi4" />
         <item itemvalue="Python.Daemi3" />
         <item itemvalue="Python.Daemi2" />
         <item itemvalue="Python.Daemi1 (1)" />
-        <item itemvalue="Python.Daemi1" />
       </list>
     </recent_temporary>
   </component>
@@ -584,13 +576,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Verkefni 1/daemi1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Verkefni 1/daemi2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -896,16 +881,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Verkefni 12/Daemi3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="17" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="18" selection-end-column="17" />
-          <folding>
-            <marker date="1538474411294" expanded="true" signature="463:577" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Verkefni 12/Daemi2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -917,12 +892,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Verkefni 12/Daemi3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="17" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="18" selection-end-column="17" />
+          <folding>
+            <marker date="1538474411294" expanded="true" signature="463:577" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Verkefni 12/Daemi4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        <state relative-caret-position="68">
+          <caret line="4" column="27" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="4" selection-end-column="27" />
           <folding>
-            <marker date="1538475663350" expanded="true" signature="247:249" ph="..." />
+            <marker date="1538475816385" expanded="true" signature="210:212" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verkefni 12/Daemi5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <marker date="1538476432401" expanded="true" signature="68:346" ph="..." />
           </folding>
         </state>
       </provider>
